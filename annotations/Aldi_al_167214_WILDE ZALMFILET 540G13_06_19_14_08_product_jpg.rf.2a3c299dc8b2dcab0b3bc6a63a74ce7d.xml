@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_167214_WILDE ZALMFILET 540G13_06_19_14_08_product_jpg.rf.2a3c299dc8b2dcab0b3bc6a63a74ce7d.jpg</filename>
 	<path>Aldi_al_167214_WILDE ZALMFILET 540G13_06_19_14_08_product_jpg.rf.2a3c299dc8b2dcab0b3bc6a63a74ce7d.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>387</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>229</ymin>
 			<ymax>262</ymax>
 		</bndbox>

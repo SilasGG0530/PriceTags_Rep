@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_203738_VAATWASTABLETTEN 40 STUKS15_08_20_38_22_schapkaart_jpg.rf.dc642413d8f8028181ea0a5a8d27eeed.jpg</filename>
 	<path>Aldi_al_203738_VAATWASTABLETTEN 40 STUKS15_08_20_38_22_schapkaart_jpg.rf.dc642413d8f8028181ea0a5a8d27eeed.jpg</path>
 	<source>
@@ -60,7 +60,7 @@
 			<xmin>247</xmin>
 			<xmax>375</xmax>
 			<ymin>363</ymin>
-			<ymax>417</ymax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 </annotation>

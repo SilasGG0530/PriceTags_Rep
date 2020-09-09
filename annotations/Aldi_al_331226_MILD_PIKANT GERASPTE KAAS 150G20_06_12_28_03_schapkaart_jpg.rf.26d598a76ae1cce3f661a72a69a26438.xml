@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_331226_MILD_PIKANT GERASPTE KAAS 150G20_06_12_28_03_schapkaart_jpg.rf.26d598a76ae1cce3f661a72a69a26438.jpg</filename>
 	<path>Aldi_al_331226_MILD_PIKANT GERASPTE KAAS 150G20_06_12_28_03_schapkaart_jpg.rf.26d598a76ae1cce3f661a72a69a26438.jpg</path>
 	<source>
@@ -19,7 +19,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>19</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>125</ymin>
 			<ymax>247</ymax>
 		</bndbox>

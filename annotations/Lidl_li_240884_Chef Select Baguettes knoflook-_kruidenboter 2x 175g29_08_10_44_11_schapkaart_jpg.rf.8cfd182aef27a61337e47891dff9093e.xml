@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_240884_Chef Select Baguettes knoflook-_kruidenboter 2x 175g29_08_10_44_11_schapkaart_jpg.rf.8cfd182aef27a61337e47891dff9093e.jpg</filename>
 	<path>Lidl_li_240884_Chef Select Baguettes knoflook-_kruidenboter 2x 175g29_08_10_44_11_schapkaart_jpg.rf.8cfd182aef27a61337e47891dff9093e.jpg</path>
 	<source>
@@ -97,7 +97,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>391</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>319</ymin>
 			<ymax>336</ymax>
 		</bndbox>

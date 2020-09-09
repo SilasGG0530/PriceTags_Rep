@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_240868_Roomkaas kruiden (groen _ witte deksel)15_08_15_13_16_schapkaart_jpg.rf.385af2cca5f24aef27810796b562ab42.jpg</filename>
 	<path>Lidl_li_240868_Roomkaas kruiden (groen _ witte deksel)15_08_15_13_16_schapkaart_jpg.rf.385af2cca5f24aef27810796b562ab42.jpg</path>
 	<source>
@@ -125,7 +125,7 @@
 			<xmin>153</xmin>
 			<xmax>234</xmax>
 			<ymin>397</ymin>
-			<ymax>417</ymax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 </annotation>

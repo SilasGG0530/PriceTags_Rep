@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_166186_PATATES FRITES 2_5KG25_07_12_40_57_schapkaart_jpg.rf.da712f58fe95e8793a2876d2c3d1dc7d.jpg</filename>
 	<path>Aldi_al_166186_PATATES FRITES 2_5KG25_07_12_40_57_schapkaart_jpg.rf.da712f58fe95e8793a2876d2c3d1dc7d.jpg</path>
 	<source>
@@ -71,7 +71,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>398</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>51</ymin>
 			<ymax>66</ymax>
 		</bndbox>

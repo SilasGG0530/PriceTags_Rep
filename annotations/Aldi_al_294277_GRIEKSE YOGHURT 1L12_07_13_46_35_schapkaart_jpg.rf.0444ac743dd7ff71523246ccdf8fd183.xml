@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_294277_GRIEKSE YOGHURT 1L12_07_13_46_35_schapkaart_jpg.rf.0444ac743dd7ff71523246ccdf8fd183.jpg</filename>
 	<path>Aldi_al_294277_GRIEKSE YOGHURT 1L12_07_13_46_35_schapkaart_jpg.rf.0444ac743dd7ff71523246ccdf8fd183.jpg</path>
 	<source>
@@ -58,7 +58,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>359</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>37</ymin>
 			<ymax>58</ymax>
 		</bndbox>

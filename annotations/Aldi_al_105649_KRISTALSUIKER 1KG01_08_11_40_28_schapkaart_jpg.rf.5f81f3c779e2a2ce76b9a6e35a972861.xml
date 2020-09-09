@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_105649_KRISTALSUIKER 1KG01_08_11_40_28_schapkaart_jpg.rf.5f81f3c779e2a2ce76b9a6e35a972861.jpg</filename>
 	<path>Aldi_al_105649_KRISTALSUIKER 1KG01_08_11_40_28_schapkaart_jpg.rf.5f81f3c779e2a2ce76b9a6e35a972861.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>376</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>43</ymin>
 			<ymax>147</ymax>
 		</bndbox>

@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_141624_Landhof Halfvolle melk doos 12 stuks 12 Liter20_06_11_45_40_schapkaart_jpg.rf.49d79233c346eeeb8c1aa34d6860fbae.jpg</filename>
 	<path>Aldi_al_141624_Landhof Halfvolle melk doos 12 stuks 12 Liter20_06_11_45_40_schapkaart_jpg.rf.49d79233c346eeeb8c1aa34d6860fbae.jpg</path>
 	<source>
@@ -71,7 +71,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>393</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>42</ymin>
 			<ymax>78</ymax>
 		</bndbox>

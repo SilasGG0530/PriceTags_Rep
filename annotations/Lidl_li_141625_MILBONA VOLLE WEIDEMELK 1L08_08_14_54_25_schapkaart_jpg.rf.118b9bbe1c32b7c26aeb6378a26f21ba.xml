@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_141625_MILBONA VOLLE WEIDEMELK 1L08_08_14_54_25_schapkaart_jpg.rf.118b9bbe1c32b7c26aeb6378a26f21ba.jpg</filename>
 	<path>Lidl_li_141625_MILBONA VOLLE WEIDEMELK 1L08_08_14_54_25_schapkaart_jpg.rf.118b9bbe1c32b7c26aeb6378a26f21ba.jpg</path>
 	<source>
@@ -19,7 +19,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>11</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>153</ymin>
 			<ymax>272</ymax>
 		</bndbox>

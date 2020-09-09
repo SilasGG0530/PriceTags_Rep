@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_167214_Ocean sea Wilde zalmfilet MSC 250g30_05_23_58_23_product_jpg.rf.96ecc9e7ecb2d76eb81acc51b71321af.jpg</filename>
 	<path>Lidl_li_167214_Ocean sea Wilde zalmfilet MSC 250g30_05_23_58_23_product_jpg.rf.96ecc9e7ecb2d76eb81acc51b71321af.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>393</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>109</ymin>
 			<ymax>173</ymax>
 		</bndbox>

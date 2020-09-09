@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_107259_NUTELLA 750G08_08_13_45_44_schapkaart_jpg.rf.74aa30a1bf52578f2976abb5b69f577b.jpg</filename>
 	<path>Aldi_al_107259_NUTELLA 750G08_08_13_45_44_schapkaart_jpg.rf.74aa30a1bf52578f2976abb5b69f577b.jpg</path>
 	<source>
@@ -86,7 +86,7 @@
 			<xmin>222</xmin>
 			<xmax>284</xmax>
 			<ymin>403</ymin>
-			<ymax>417</ymax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 </annotation>

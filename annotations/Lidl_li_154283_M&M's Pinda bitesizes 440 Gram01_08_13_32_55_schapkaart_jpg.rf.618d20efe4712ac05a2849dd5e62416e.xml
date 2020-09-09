@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>Lidl_li_154283_M&amp;M&#x27;s Pinda bitesizes 440 Gram01_08_13_32_55_schapkaart_jpg.rf.618d20efe4712ac05a2849dd5e62416e.jpg</filename>
-	<path>Lidl_li_154283_M&amp;M&#x27;s Pinda bitesizes 440 Gram01_08_13_32_55_schapkaart_jpg.rf.618d20efe4712ac05a2849dd5e62416e.jpg</path>
+	<folder />
+	<filename>Lidl_li_154283_M&amp;M's Pinda bitesizes 440 Gram01_08_13_32_55_schapkaart_jpg.rf.618d20efe4712ac05a2849dd5e62416e.jpg</filename>
+	<path>Lidl_li_154283_M&amp;M's Pinda bitesizes 440 Gram01_08_13_32_55_schapkaart_jpg.rf.618d20efe4712ac05a2849dd5e62416e.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
@@ -45,7 +45,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>362</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>69</ymin>
 			<ymax>87</ymax>
 		</bndbox>

@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_138665_Blue Band Voor de keuken 250 Gram20_06_10_34_15_schapkaart_jpg.rf.4c31273452a3da407ae6b6579ec846af.jpg</filename>
 	<path>Aldi_al_138665_Blue Band Voor de keuken 250 Gram20_06_10_34_15_schapkaart_jpg.rf.4c31273452a3da407ae6b6579ec846af.jpg</path>
 	<source>
@@ -71,7 +71,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>355</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>320</ymin>
 			<ymax>335</ymax>
 		</bndbox>

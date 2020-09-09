@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_163116_BRONWATER MET KOOLZUUR 6 x0_5L01_08_11_37_18_schapkaart_jpg.rf.93b3ad53b6d4fa3f12738629ca7a3fed.jpg</filename>
 	<path>Aldi_al_163116_BRONWATER MET KOOLZUUR 6 x0_5L01_08_11_37_18_schapkaart_jpg.rf.93b3ad53b6d4fa3f12738629ca7a3fed.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>264</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>132</ymin>
 			<ymax>304</ymax>
 		</bndbox>

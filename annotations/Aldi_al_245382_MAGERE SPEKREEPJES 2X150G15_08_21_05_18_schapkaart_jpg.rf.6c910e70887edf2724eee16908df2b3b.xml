@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_245382_MAGERE SPEKREEPJES 2X150G15_08_21_05_18_schapkaart_jpg.rf.6c910e70887edf2724eee16908df2b3b.jpg</filename>
 	<path>Aldi_al_245382_MAGERE SPEKREEPJES 2X150G15_08_21_05_18_schapkaart_jpg.rf.6c910e70887edf2724eee16908df2b3b.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>342</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>291</ymin>
 			<ymax>339</ymax>
 		</bndbox>

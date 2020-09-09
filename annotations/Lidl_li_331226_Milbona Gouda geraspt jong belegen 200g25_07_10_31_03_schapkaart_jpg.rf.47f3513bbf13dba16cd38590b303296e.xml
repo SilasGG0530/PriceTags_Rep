@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_331226_Milbona Gouda geraspt jong belegen 200g25_07_10_31_03_schapkaart_jpg.rf.47f3513bbf13dba16cd38590b303296e.jpg</filename>
 	<path>Lidl_li_331226_Milbona Gouda geraspt jong belegen 200g25_07_10_31_03_schapkaart_jpg.rf.47f3513bbf13dba16cd38590b303296e.jpg</path>
 	<source>
@@ -45,7 +45,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>349</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>70</ymin>
 			<ymax>106</ymax>
 		</bndbox>

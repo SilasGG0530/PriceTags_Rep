@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_191618_Floralys Keukenrollen 3-laags 4x 53vel06_06_17_13_04_schapkaart_jpg.rf.986a93a01cbadb16a6d831aec4547b38.jpg</filename>
 	<path>Lidl_li_191618_Floralys Keukenrollen 3-laags 4x 53vel06_06_17_13_04_schapkaart_jpg.rf.986a93a01cbadb16a6d831aec4547b38.jpg</path>
 	<source>
@@ -58,7 +58,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>408</xmin>
-			<xmax>417</xmax>
+			<xmax>416</xmax>
 			<ymin>24</ymin>
 			<ymax>54</ymax>
 		</bndbox>
