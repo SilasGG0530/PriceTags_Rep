@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_255410_Milbona Verse hlfvolle melk 2L22_08_13_34_47_schapkaart_jpg.rf.b711528d3244f6a3cc50e7e07cd5cc59.jpg</filename>
+	<path>Lidl_li_255410_Milbona Verse hlfvolle melk 2L22_08_13_34_47_schapkaart_jpg.rf.b711528d3244f6a3cc50e7e07cd5cc59.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>119</xmin>
+			<xmax>277</xmax>
+			<ymin>232</ymin>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>

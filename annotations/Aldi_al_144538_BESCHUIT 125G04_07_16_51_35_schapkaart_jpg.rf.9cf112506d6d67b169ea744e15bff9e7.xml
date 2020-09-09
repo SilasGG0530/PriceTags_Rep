@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_144538_BESCHUIT 125G04_07_16_51_35_schapkaart_jpg.rf.9cf112506d6d67b169ea744e15bff9e7.jpg</filename>
+	<path>Aldi_al_144538_BESCHUIT 125G04_07_16_51_35_schapkaart_jpg.rf.9cf112506d6d67b169ea744e15bff9e7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>308</xmax>
+			<ymin>182</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

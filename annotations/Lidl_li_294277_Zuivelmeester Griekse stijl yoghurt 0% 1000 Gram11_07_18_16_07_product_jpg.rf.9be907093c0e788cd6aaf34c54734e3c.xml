@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_294277_Zuivelmeester Griekse stijl yoghurt 0% 1000 Gram11_07_18_16_07_product_jpg.rf.9be907093c0e788cd6aaf34c54734e3c.jpg</filename>
+	<path>Lidl_li_294277_Zuivelmeester Griekse stijl yoghurt 0% 1000 Gram11_07_18_16_07_product_jpg.rf.9be907093c0e788cd6aaf34c54734e3c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>273</xmax>
+			<ymin>211</ymin>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

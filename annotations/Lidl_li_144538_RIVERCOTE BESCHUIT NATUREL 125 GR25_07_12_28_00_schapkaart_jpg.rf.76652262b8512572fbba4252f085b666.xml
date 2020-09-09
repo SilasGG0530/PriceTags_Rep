@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_144538_RIVERCOTE BESCHUIT NATUREL 125 GR25_07_12_28_00_schapkaart_jpg.rf.76652262b8512572fbba4252f085b666.jpg</filename>
+	<path>Lidl_li_144538_RIVERCOTE BESCHUIT NATUREL 125 GR25_07_12_28_00_schapkaart_jpg.rf.76652262b8512572fbba4252f085b666.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>174</xmin>
+			<xmax>294</xmax>
+			<ymin>193</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+	</object>
+</annotation>

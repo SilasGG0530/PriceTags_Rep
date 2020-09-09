@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_154283_M&amp;M&#x27;s Pinda bitesizes 440 Gram01_06_15_47_02_product_jpg.rf.7e59c1a681b4fbfe5c9b74d16345aa0b.jpg</filename>
+	<path>Lidl_li_154283_M&amp;M&#x27;s Pinda bitesizes 440 Gram01_06_15_47_02_product_jpg.rf.7e59c1a681b4fbfe5c9b74d16345aa0b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>394</xmax>
+			<ymin>67</ymin>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

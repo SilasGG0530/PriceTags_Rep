@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_141624_Landhof Halfvolle melk doos 12 stuks 12 Liter13_06_13_16_20_product_jpg.rf.d010db1385eb3f8a862219f3fd607ec4.jpg</filename>
+	<path>Lidl_li_141624_Landhof Halfvolle melk doos 12 stuks 12 Liter13_06_13_16_20_product_jpg.rf.d010db1385eb3f8a862219f3fd607ec4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>51</xmin>
+			<xmax>372</xmax>
+			<ymin>63</ymin>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+</annotation>

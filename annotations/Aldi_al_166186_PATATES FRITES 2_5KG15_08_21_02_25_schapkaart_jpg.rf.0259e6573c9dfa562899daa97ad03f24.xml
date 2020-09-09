@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_166186_PATATES FRITES 2_5KG15_08_21_02_25_schapkaart_jpg.rf.0259e6573c9dfa562899daa97ad03f24.jpg</filename>
+	<path>Aldi_al_166186_PATATES FRITES 2_5KG15_08_21_02_25_schapkaart_jpg.rf.0259e6573c9dfa562899daa97ad03f24.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>284</xmax>
+			<ymin>95</ymin>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>

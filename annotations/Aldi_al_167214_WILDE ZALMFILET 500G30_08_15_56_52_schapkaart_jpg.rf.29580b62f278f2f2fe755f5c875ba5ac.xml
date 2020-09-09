@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_167214_WILDE ZALMFILET 500G30_08_15_56_52_schapkaart_jpg.rf.29580b62f278f2f2fe755f5c875ba5ac.jpg</filename>
+	<path>Aldi_al_167214_WILDE ZALMFILET 500G30_08_15_56_52_schapkaart_jpg.rf.29580b62f278f2f2fe755f5c875ba5ac.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>349</xmax>
+			<ymin>186</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>92</xmax>
+			<ymin>190</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

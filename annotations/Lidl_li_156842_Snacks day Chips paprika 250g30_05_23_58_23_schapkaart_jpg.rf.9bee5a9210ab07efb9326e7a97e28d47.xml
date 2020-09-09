@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_156842_Snacks day Chips paprika 250g30_05_23_58_23_schapkaart_jpg.rf.9bee5a9210ab07efb9326e7a97e28d47.jpg</filename>
+	<path>Lidl_li_156842_Snacks day Chips paprika 250g30_05_23_58_23_schapkaart_jpg.rf.9bee5a9210ab07efb9326e7a97e28d47.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>244</xmax>
+			<ymin>75</ymin>
+			<ymax>152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>44</xmax>
+			<ymin>84</ymin>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>

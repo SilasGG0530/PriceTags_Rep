@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_115892_Combino Macaroni vlugkokend 500g18_07_17_45_41_schapkaart_jpg.rf.96e254b7fc2632de37fd2145e96282fd.jpg</filename>
+	<path>Lidl_li_115892_Combino Macaroni vlugkokend 500g18_07_17_45_41_schapkaart_jpg.rf.96e254b7fc2632de37fd2145e96282fd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>376</xmax>
+			<ymin>184</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

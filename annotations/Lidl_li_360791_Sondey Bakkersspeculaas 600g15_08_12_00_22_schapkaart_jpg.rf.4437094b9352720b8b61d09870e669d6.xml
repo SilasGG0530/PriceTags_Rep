@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_360791_Sondey Bakkersspeculaas 600g15_08_12_00_22_schapkaart_jpg.rf.4437094b9352720b8b61d09870e669d6.jpg</filename>
+	<path>Lidl_li_360791_Sondey Bakkersspeculaas 600g15_08_12_00_22_schapkaart_jpg.rf.4437094b9352720b8b61d09870e669d6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>340</xmax>
+			<ymin>280</ymin>
+			<ymax>339</ymax>
+		</bndbox>
+	</object>
+</annotation>

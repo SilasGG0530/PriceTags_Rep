@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_138665_Blue Band Voor de keuken 250 Gram07_06_11_50_49_product_jpg.rf.7fef423a9094a99936b6b28abcccec3d.jpg</filename>
+	<path>Lidl_li_138665_Blue Band Voor de keuken 250 Gram07_06_11_50_49_product_jpg.rf.7fef423a9094a99936b6b28abcccec3d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>297</xmax>
+			<ymin>78</ymin>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>318</xmin>
+			<xmax>417</xmax>
+			<ymin>76</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>46</xmax>
+			<ymin>82</ymin>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

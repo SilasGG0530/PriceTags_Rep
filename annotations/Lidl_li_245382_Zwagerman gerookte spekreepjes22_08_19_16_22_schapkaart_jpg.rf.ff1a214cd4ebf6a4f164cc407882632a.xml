@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_245382_Zwagerman gerookte spekreepjes22_08_19_16_22_schapkaart_jpg.rf.ff1a214cd4ebf6a4f164cc407882632a.jpg</filename>
+	<path>Lidl_li_245382_Zwagerman gerookte spekreepjes22_08_19_16_22_schapkaart_jpg.rf.ff1a214cd4ebf6a4f164cc407882632a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>354</xmax>
+			<ymin>192</ymin>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

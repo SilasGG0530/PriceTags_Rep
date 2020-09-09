@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_156836_CHIPS NATUREL 250G15_08_21_02_25_schapkaart_jpg.rf.c02c0fe489230ab6fbf460e81bb88068.jpg</filename>
+	<path>Aldi_al_156836_CHIPS NATUREL 250G15_08_21_02_25_schapkaart_jpg.rf.c02c0fe489230ab6fbf460e81bb88068.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>53</xmin>
+			<xmax>243</xmax>
+			<ymin>85</ymin>
+			<ymax>154</ymax>
+		</bndbox>
+	</object>
+</annotation>

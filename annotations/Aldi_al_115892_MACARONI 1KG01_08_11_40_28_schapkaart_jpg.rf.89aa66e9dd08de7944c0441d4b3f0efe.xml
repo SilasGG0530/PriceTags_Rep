@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_115892_MACARONI 1KG01_08_11_40_28_schapkaart_jpg.rf.89aa66e9dd08de7944c0441d4b3f0efe.jpg</filename>
+	<path>Aldi_al_115892_MACARONI 1KG01_08_11_40_28_schapkaart_jpg.rf.89aa66e9dd08de7944c0441d4b3f0efe.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>243</xmax>
+			<ymin>198</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

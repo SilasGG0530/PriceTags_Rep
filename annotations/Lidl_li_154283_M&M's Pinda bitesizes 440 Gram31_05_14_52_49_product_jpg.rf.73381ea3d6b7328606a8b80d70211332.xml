@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_154283_M&amp;M&#x27;s Pinda bitesizes 440 Gram31_05_14_52_49_product_jpg.rf.73381ea3d6b7328606a8b80d70211332.jpg</filename>
+	<path>Lidl_li_154283_M&amp;M&#x27;s Pinda bitesizes 440 Gram31_05_14_52_49_product_jpg.rf.73381ea3d6b7328606a8b80d70211332.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>86</xmin>
+			<xmax>173</xmax>
+			<ymin>111</ymin>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>241</xmin>
+			<xmax>333</xmax>
+			<ymin>113</ymin>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>379</xmin>
+			<xmax>417</xmax>
+			<ymin>115</ymin>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_141625_MILBONA VOLLE WEIDEMELK 1L01_06_15_47_02_schapkaart_jpg.rf.a1f6fc8d2d2984ea10455203ecbe18a6.jpg</filename>
+	<path>Lidl_li_141625_MILBONA VOLLE WEIDEMELK 1L01_06_15_47_02_schapkaart_jpg.rf.a1f6fc8d2d2984ea10455203ecbe18a6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>276</xmax>
+			<ymin>136</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+</annotation>

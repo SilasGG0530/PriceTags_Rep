@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_130389_Hela Curry kruiden ketchup 800 Milliliter01_06_11_22_52_product_jpg.rf.16a407c16a0e5540f5f868eb65ba63ca.jpg</filename>
+	<path>Aldi_al_130389_Hela Curry kruiden ketchup 800 Milliliter01_06_11_22_52_product_jpg.rf.16a407c16a0e5540f5f868eb65ba63ca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>66</xmin>
+			<xmax>187</xmax>
+			<ymin>73</ymin>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

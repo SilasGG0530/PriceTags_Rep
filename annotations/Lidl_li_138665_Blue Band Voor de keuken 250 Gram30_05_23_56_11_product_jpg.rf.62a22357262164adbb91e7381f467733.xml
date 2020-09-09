@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_138665_Blue Band Voor de keuken 250 Gram30_05_23_56_11_product_jpg.rf.62a22357262164adbb91e7381f467733.jpg</filename>
+	<path>Lidl_li_138665_Blue Band Voor de keuken 250 Gram30_05_23_56_11_product_jpg.rf.62a22357262164adbb91e7381f467733.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>119</xmin>
+			<xmax>263</xmax>
+			<ymin>6</ymin>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>

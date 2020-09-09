@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_240868_ROOMKAAS KRUIDEN 150G20_06_11_07_13_schapkaart_jpg.rf.51e3a8747b311cca6036914bf2edbaaf.jpg</filename>
+	<path>Aldi_al_240868_ROOMKAAS KRUIDEN 150G20_06_11_07_13_schapkaart_jpg.rf.51e3a8747b311cca6036914bf2edbaaf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>71</xmin>
+			<xmax>266</xmax>
+			<ymin>190</ymin>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+</annotation>

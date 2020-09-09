@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_138665_Blue Band Voor de keuken 250 Gram01_08_11_40_28_schapkaart_jpg.rf.b989d1988fd26bb2bdd2aed8eace84c3.jpg</filename>
+	<path>Aldi_al_138665_Blue Band Voor de keuken 250 Gram01_08_11_40_28_schapkaart_jpg.rf.b989d1988fd26bb2bdd2aed8eace84c3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>182</xmin>
+			<xmax>210</xmax>
+			<ymin>137</ymin>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>345</xmin>
+			<xmax>371</xmax>
+			<ymin>274</ymin>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>45</xmax>
+			<ymin>281</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+</annotation>

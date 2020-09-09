@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_134669_KANIA Azijn 1_5L27_06_10_39_22_schapkaart_jpg.rf.1ddfd3f79755a93d462d7d16536d65ba.jpg</filename>
+	<path>Lidl_li_134669_KANIA Azijn 1_5L27_06_10_39_22_schapkaart_jpg.rf.1ddfd3f79755a93d462d7d16536d65ba.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>377</xmax>
+			<ymin>199</ymin>
+			<ymax>281</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_331226_MILD_PIKANT GERASPTE KAAS 150G04_07_17_29_21_schapkaart_jpg.rf.3e131a567f42e443891c99915a2eec3e.jpg</filename>
+	<path>Aldi_al_331226_MILD_PIKANT GERASPTE KAAS 150G04_07_17_29_21_schapkaart_jpg.rf.3e131a567f42e443891c99915a2eec3e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>25</xmin>
+			<xmax>357</xmax>
+			<ymin>112</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

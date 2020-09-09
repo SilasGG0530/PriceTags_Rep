@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_240884_MET KRUIDENBOTER BAGUETTE 175G09_08_12_32_14_schapkaart_jpg.rf.dbca01de2913a04c9c468635eb9ab720.jpg</filename>
+	<path>Aldi_al_240884_MET KRUIDENBOTER BAGUETTE 175G09_08_12_32_14_schapkaart_jpg.rf.dbca01de2913a04c9c468635eb9ab720.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>345</xmax>
+			<ymin>117</ymin>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+</annotation>

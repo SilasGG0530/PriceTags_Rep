@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_191801_Floralys Toiletpapier 3-laags recycle 8x200 vel01_08_11_56_30_schapkaart_jpg.rf.3ee80f0f80a9305001e9dbc2fc664bbf.jpg</filename>
+	<path>Lidl_li_191801_Floralys Toiletpapier 3-laags recycle 8x200 vel01_08_11_56_30_schapkaart_jpg.rf.3ee80f0f80a9305001e9dbc2fc664bbf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>59</xmin>
+			<xmax>89</xmax>
+			<ymin>39</ymin>
+			<ymax>78</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>220</xmin>
+			<xmax>262</xmax>
+			<ymin>16</ymin>
+			<ymax>63</ymax>
+		</bndbox>
+	</object>
+</annotation>

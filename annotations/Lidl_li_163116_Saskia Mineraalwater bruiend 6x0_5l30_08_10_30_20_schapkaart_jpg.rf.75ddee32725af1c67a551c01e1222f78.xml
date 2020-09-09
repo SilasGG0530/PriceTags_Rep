@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_163116_Saskia Mineraalwater bruiend 6x0_5l30_08_10_30_20_schapkaart_jpg.rf.75ddee32725af1c67a551c01e1222f78.jpg</filename>
+	<path>Lidl_li_163116_Saskia Mineraalwater bruiend 6x0_5l30_08_10_30_20_schapkaart_jpg.rf.75ddee32725af1c67a551c01e1222f78.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>67</xmax>
+			<ymin>10</ymin>
+			<ymax>47</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>170</xmin>
+			<xmax>202</xmax>
+			<ymin>17</ymin>
+			<ymax>52</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>284</xmin>
+			<xmax>316</xmax>
+			<ymin>22</ymin>
+			<ymax>57</ymax>
+		</bndbox>
+	</object>
+</annotation>

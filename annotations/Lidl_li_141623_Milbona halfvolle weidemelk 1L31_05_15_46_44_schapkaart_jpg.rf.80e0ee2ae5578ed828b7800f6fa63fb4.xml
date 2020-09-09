@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_141623_Milbona halfvolle weidemelk 1L31_05_15_46_44_schapkaart_jpg.rf.80e0ee2ae5578ed828b7800f6fa63fb4.jpg</filename>
+	<path>Lidl_li_141623_Milbona halfvolle weidemelk 1L31_05_15_46_44_schapkaart_jpg.rf.80e0ee2ae5578ed828b7800f6fa63fb4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>207</xmax>
+			<ymin>42</ymin>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

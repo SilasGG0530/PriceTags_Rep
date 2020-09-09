@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_240884_Chef Select Baguettes knoflook-_kruidenboter 2x 175g27_06_10_42_32_schapkaart_jpg.rf.dceae095060ecbea584c8d5566273322.jpg</filename>
+	<path>Lidl_li_240884_Chef Select Baguettes knoflook-_kruidenboter 2x 175g27_06_10_42_32_schapkaart_jpg.rf.dceae095060ecbea584c8d5566273322.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>342</xmax>
+			<ymin>200</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+</annotation>

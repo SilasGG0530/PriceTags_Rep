@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_294277_Milbona Yoghurt Griekse stijl 2%vet 1000 gram15_08_15_13_16_schapkaart_jpg.rf.f7acd45a84a3f36eb01d94279ea9a435.jpg</filename>
+	<path>Lidl_li_294277_Milbona Yoghurt Griekse stijl 2%vet 1000 gram15_08_15_13_16_schapkaart_jpg.rf.f7acd45a84a3f36eb01d94279ea9a435.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>217</xmin>
+			<xmax>289</xmax>
+			<ymin>128</ymin>
+			<ymax>150</ymax>
+		</bndbox>
+	</object>
+</annotation>

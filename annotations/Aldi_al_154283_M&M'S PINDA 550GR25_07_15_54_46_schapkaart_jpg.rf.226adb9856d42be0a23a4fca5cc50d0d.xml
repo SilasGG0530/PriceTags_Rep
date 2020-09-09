@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_154283_M&amp;M&#x27;S PINDA 550GR25_07_15_54_46_schapkaart_jpg.rf.226adb9856d42be0a23a4fca5cc50d0d.jpg</filename>
+	<path>Aldi_al_154283_M&amp;M&#x27;S PINDA 550GR25_07_15_54_46_schapkaart_jpg.rf.226adb9856d42be0a23a4fca5cc50d0d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>32</xmin>
+			<xmax>308</xmax>
+			<ymin>166</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

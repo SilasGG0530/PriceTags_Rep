@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_107259_Nutella Hazelnootpasta met Cacao 400 g20_06_13_14_41_schapkaart_jpg.rf.0ffa3319e5550e227110654c6c170c93.jpg</filename>
+	<path>Lidl_li_107259_Nutella Hazelnootpasta met Cacao 400 g20_06_13_14_41_schapkaart_jpg.rf.0ffa3319e5550e227110654c6c170c93.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>391</xmax>
+			<ymin>165</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+</annotation>

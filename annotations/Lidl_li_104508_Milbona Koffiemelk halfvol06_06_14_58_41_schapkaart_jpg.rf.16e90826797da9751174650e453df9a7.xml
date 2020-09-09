@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_104508_Milbona Koffiemelk halfvol06_06_14_58_41_schapkaart_jpg.rf.16e90826797da9751174650e453df9a7.jpg</filename>
+	<path>Lidl_li_104508_Milbona Koffiemelk halfvol06_06_14_58_41_schapkaart_jpg.rf.16e90826797da9751174650e453df9a7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>354</xmax>
+			<ymin>121</ymin>
+			<ymax>168</ymax>
+		</bndbox>
+	</object>
+</annotation>

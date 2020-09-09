@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_167214_Ocean sea Wilde zalmfilet MSC 250g11_07_13_22_59_schapkaart_jpg.rf.918cf8531e87eb3e0c0437bcae4f83ad.jpg</filename>
+	<path>Lidl_li_167214_Ocean sea Wilde zalmfilet MSC 250g11_07_13_22_59_schapkaart_jpg.rf.918cf8531e87eb3e0c0437bcae4f83ad.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>382</xmax>
+			<ymin>133</ymin>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+</annotation>

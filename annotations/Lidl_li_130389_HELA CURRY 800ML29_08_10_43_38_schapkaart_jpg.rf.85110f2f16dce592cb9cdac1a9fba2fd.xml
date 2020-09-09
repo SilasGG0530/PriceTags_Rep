@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_130389_HELA CURRY 800ML29_08_10_43_38_schapkaart_jpg.rf.85110f2f16dce592cb9cdac1a9fba2fd.jpg</filename>
+	<path>Lidl_li_130389_HELA CURRY 800ML29_08_10_43_38_schapkaart_jpg.rf.85110f2f16dce592cb9cdac1a9fba2fd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>130</xmin>
+			<xmax>295</xmax>
+			<ymin>206</ymin>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

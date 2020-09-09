@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_119995_Freshona Appelmoes 720ml27_06_17_35_11_schapkaart_jpg.rf.8ddab0a3b2fa41a553e1365c419a2b46.jpg</filename>
+	<path>Lidl_li_119995_Freshona Appelmoes 720ml27_06_17_35_11_schapkaart_jpg.rf.8ddab0a3b2fa41a553e1365c419a2b46.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>65</xmin>
+			<xmax>334</xmax>
+			<ymin>117</ymin>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+</annotation>

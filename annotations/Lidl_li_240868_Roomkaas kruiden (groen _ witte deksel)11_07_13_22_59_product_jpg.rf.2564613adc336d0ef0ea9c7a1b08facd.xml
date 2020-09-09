@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_240868_Roomkaas kruiden (groen _ witte deksel)11_07_13_22_59_product_jpg.rf.2564613adc336d0ef0ea9c7a1b08facd.jpg</filename>
+	<path>Lidl_li_240868_Roomkaas kruiden (groen _ witte deksel)11_07_13_22_59_product_jpg.rf.2564613adc336d0ef0ea9c7a1b08facd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>373</xmax>
+			<ymin>149</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_138665_Blue Band Voor de keuken 250 Gram01_06_10_27_26_product_jpg.rf.c16d0f488df6a7b9368a9dd3f2cd8264.jpg</filename>
+	<path>Aldi_al_138665_Blue Band Voor de keuken 250 Gram01_06_10_27_26_product_jpg.rf.c16d0f488df6a7b9368a9dd3f2cd8264.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>93</xmin>
+			<xmax>318</xmax>
+			<ymin>260</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+	</object>
+</annotation>

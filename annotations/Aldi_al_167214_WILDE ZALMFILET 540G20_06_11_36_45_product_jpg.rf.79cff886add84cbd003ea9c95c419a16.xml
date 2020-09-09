@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_167214_WILDE ZALMFILET 540G20_06_11_36_45_product_jpg.rf.79cff886add84cbd003ea9c95c419a16.jpg</filename>
+	<path>Aldi_al_167214_WILDE ZALMFILET 540G20_06_11_36_45_product_jpg.rf.79cff886add84cbd003ea9c95c419a16.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>273</xmax>
+			<ymin>129</ymin>
+			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>227</xmax>
+			<ymin>201</ymin>
+			<ymax>257</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>310</xmin>
+			<xmax>416</xmax>
+			<ymin>126</ymin>
+			<ymax>199</ymax>
+		</bndbox>
+	</object>
+</annotation>

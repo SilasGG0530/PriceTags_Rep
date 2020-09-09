@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_134669_NATUURAZIJN 1,25L20_06_12_17_55_schapkaart_jpg.rf.f3bc4b98905ca4de3dac3cbcafd4dc51.jpg</filename>
+	<path>Aldi_al_134669_NATUURAZIJN 1,25L20_06_12_17_55_schapkaart_jpg.rf.f3bc4b98905ca4de3dac3cbcafd4dc51.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>117</xmin>
+			<xmax>216</xmax>
+			<ymin>169</ymin>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

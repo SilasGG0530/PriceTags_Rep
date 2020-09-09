@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_141624_Landhof Halfvolle melk doos 12 stuks 12 Liter20_06_10_34_15_product_jpg.rf.6aa815b6bb85b2b624f6d308cf064a54.jpg</filename>
+	<path>Aldi_al_141624_Landhof Halfvolle melk doos 12 stuks 12 Liter20_06_10_34_15_product_jpg.rf.6aa815b6bb85b2b624f6d308cf064a54.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>215</xmax>
+			<ymin>55</ymin>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>53</xmax>
+			<ymin>55</ymin>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+</annotation>

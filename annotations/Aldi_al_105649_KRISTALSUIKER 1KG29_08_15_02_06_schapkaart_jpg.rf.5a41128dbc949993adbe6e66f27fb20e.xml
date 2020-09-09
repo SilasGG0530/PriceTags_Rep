@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_105649_KRISTALSUIKER 1KG29_08_15_02_06_schapkaart_jpg.rf.5a41128dbc949993adbe6e66f27fb20e.jpg</filename>
+	<path>Aldi_al_105649_KRISTALSUIKER 1KG29_08_15_02_06_schapkaart_jpg.rf.5a41128dbc949993adbe6e66f27fb20e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>279</xmax>
+			<ymin>17</ymin>
+			<ymax>125</ymax>
+		</bndbox>
+	</object>
+</annotation>

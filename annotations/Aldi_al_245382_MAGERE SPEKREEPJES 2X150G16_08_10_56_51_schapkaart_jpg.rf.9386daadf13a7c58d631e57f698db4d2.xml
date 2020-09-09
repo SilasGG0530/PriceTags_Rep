@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_245382_MAGERE SPEKREEPJES 2X150G16_08_10_56_51_schapkaart_jpg.rf.9386daadf13a7c58d631e57f698db4d2.jpg</filename>
+	<path>Aldi_al_245382_MAGERE SPEKREEPJES 2X150G16_08_10_56_51_schapkaart_jpg.rf.9386daadf13a7c58d631e57f698db4d2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>20</xmin>
+			<xmax>85</xmax>
+			<ymin>199</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>162</xmin>
+			<xmax>221</xmax>
+			<ymin>192</ymin>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+</annotation>

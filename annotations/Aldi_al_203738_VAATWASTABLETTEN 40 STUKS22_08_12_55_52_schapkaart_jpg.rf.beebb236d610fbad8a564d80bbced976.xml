@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_203738_VAATWASTABLETTEN 40 STUKS22_08_12_55_52_schapkaart_jpg.rf.beebb236d610fbad8a564d80bbced976.jpg</filename>
+	<path>Aldi_al_203738_VAATWASTABLETTEN 40 STUKS22_08_12_55_52_schapkaart_jpg.rf.beebb236d610fbad8a564d80bbced976.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>273</xmax>
+			<ymin>195</ymin>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

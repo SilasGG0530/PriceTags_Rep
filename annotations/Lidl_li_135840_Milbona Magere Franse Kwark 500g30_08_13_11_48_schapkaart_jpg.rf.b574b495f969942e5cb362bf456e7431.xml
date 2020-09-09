@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_135840_Milbona Magere Franse Kwark 500g30_08_13_11_48_schapkaart_jpg.rf.b574b495f969942e5cb362bf456e7431.jpg</filename>
+	<path>Lidl_li_135840_Milbona Magere Franse Kwark 500g30_08_13_11_48_schapkaart_jpg.rf.b574b495f969942e5cb362bf456e7431.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>51</xmin>
+			<xmax>361</xmax>
+			<ymin>155</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+</annotation>

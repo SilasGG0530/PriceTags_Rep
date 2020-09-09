@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_156842_CHIPS PAPRIKA 250G18_07_15_54_04_schapkaart_jpg.rf.0bd58a379b988085271d4a7d717e07f6.jpg</filename>
+	<path>Aldi_al_156842_CHIPS PAPRIKA 250G18_07_15_54_04_schapkaart_jpg.rf.0bd58a379b988085271d4a7d717e07f6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>112</xmin>
+			<xmax>389</xmax>
+			<ymin>118</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

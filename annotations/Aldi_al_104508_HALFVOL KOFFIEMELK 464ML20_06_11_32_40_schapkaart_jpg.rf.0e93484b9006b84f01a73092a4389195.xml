@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_104508_HALFVOL KOFFIEMELK 464ML20_06_11_32_40_schapkaart_jpg.rf.0e93484b9006b84f01a73092a4389195.jpg</filename>
+	<path>Aldi_al_104508_HALFVOL KOFFIEMELK 464ML20_06_11_32_40_schapkaart_jpg.rf.0e93484b9006b84f01a73092a4389195.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>341</xmax>
+			<ymin>77</ymin>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

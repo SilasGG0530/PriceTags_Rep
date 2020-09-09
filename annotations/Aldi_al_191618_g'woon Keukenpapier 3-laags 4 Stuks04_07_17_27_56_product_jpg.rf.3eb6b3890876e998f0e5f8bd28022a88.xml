@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_191618_g&#x27;woon Keukenpapier 3-laags 4 Stuks04_07_17_27_56_product_jpg.rf.3eb6b3890876e998f0e5f8bd28022a88.jpg</filename>
+	<path>Aldi_al_191618_g&#x27;woon Keukenpapier 3-laags 4 Stuks04_07_17_27_56_product_jpg.rf.3eb6b3890876e998f0e5f8bd28022a88.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>112</xmin>
+			<xmax>313</xmax>
+			<ymin>102</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

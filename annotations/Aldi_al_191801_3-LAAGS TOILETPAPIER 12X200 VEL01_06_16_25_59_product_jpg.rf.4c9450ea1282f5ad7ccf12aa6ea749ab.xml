@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_191801_3-LAAGS TOILETPAPIER 12X200 VEL01_06_16_25_59_product_jpg.rf.4c9450ea1282f5ad7ccf12aa6ea749ab.jpg</filename>
+	<path>Aldi_al_191801_3-LAAGS TOILETPAPIER 12X200 VEL01_06_16_25_59_product_jpg.rf.4c9450ea1282f5ad7ccf12aa6ea749ab.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>202</xmin>
+			<xmax>271</xmax>
+			<ymin>112</ymin>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

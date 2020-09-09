@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_166186_Harvest Basket patat geschikt voor frituur 2_5kg04_07_18_02_04_schapkaart_jpg.rf.b4eb3a66e9cbdfd7695c99af7afcf007.jpg</filename>
+	<path>Lidl_li_166186_Harvest Basket patat geschikt voor frituur 2_5kg04_07_18_02_04_schapkaart_jpg.rf.b4eb3a66e9cbdfd7695c99af7afcf007.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>393</xmax>
+			<ymin>151</ymin>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+</annotation>

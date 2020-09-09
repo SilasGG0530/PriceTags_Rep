@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_156836_Snacks day Chips naturel 250g18_07_18_13_57_schapkaart_jpg.rf.2acf4f6d210505b4fd10d5cd9be6ea63.jpg</filename>
+	<path>Lidl_li_156836_Snacks day Chips naturel 250g18_07_18_13_57_schapkaart_jpg.rf.2acf4f6d210505b4fd10d5cd9be6ea63.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>50</xmin>
+			<xmax>373</xmax>
+			<ymin>190</ymin>
+			<ymax>276</ymax>
+		</bndbox>
+	</object>
+</annotation>

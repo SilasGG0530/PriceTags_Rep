@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_344057_Milbona Gouda plakken jong belegen wiedemelk 400g30_05_20_06_38_schapkaart_jpg.rf.9e5e8e046bb4900303d7497d1168d007.jpg</filename>
+	<path>Lidl_li_344057_Milbona Gouda plakken jong belegen wiedemelk 400g30_05_20_06_38_schapkaart_jpg.rf.9e5e8e046bb4900303d7497d1168d007.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>112</xmin>
+			<xmax>268</xmax>
+			<ymin>161</ymin>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>131</xmin>
+			<xmax>247</xmax>
+			<ymin>403</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>28</xmax>
+			<ymin>401</ymin>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

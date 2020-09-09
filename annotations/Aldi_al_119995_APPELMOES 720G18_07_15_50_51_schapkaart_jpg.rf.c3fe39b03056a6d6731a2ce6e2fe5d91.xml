@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_119995_APPELMOES 720G18_07_15_50_51_schapkaart_jpg.rf.c3fe39b03056a6d6731a2ce6e2fe5d91.jpg</filename>
+	<path>Aldi_al_119995_APPELMOES 720G18_07_15_50_51_schapkaart_jpg.rf.c3fe39b03056a6d6731a2ce6e2fe5d91.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>373</xmax>
+			<ymin>104</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+</annotation>

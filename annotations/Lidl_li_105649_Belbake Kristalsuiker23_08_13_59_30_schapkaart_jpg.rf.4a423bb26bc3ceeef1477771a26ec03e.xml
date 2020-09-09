@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_105649_Belbake Kristalsuiker23_08_13_59_30_schapkaart_jpg.rf.4a423bb26bc3ceeef1477771a26ec03e.jpg</filename>
+	<path>Lidl_li_105649_Belbake Kristalsuiker23_08_13_59_30_schapkaart_jpg.rf.4a423bb26bc3ceeef1477771a26ec03e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>152</xmin>
+			<xmax>250</xmax>
+			<ymin>173</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

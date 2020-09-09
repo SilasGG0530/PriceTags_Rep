@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_191618_Floralys Keukenrollen 3-laags 4x 53vel20_06_12_40_00_schapkaart_jpg.rf.030204213c3d1696e67f62ddb12377fa.jpg</filename>
+	<path>Lidl_li_191618_Floralys Keukenrollen 3-laags 4x 53vel20_06_12_40_00_schapkaart_jpg.rf.030204213c3d1696e67f62ddb12377fa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>176</xmin>
+			<xmax>239</xmax>
+			<ymin>45</ymin>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_163116_BRONWATER MET KOOLZUUR 6 x0_5L22_08_15_04_18_schapkaart_jpg.rf.7d3a5bcf28b2c30d38e93c1890e87bc0.jpg</filename>
+	<path>Aldi_al_163116_BRONWATER MET KOOLZUUR 6 x0_5L22_08_15_04_18_schapkaart_jpg.rf.7d3a5bcf28b2c30d38e93c1890e87bc0.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>278</xmax>
+			<ymin>135</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+	</object>
+</annotation>

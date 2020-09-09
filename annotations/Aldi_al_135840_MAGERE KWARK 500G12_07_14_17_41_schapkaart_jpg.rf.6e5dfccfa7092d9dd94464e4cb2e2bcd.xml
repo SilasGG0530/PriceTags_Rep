@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_135840_MAGERE KWARK 500G12_07_14_17_41_schapkaart_jpg.rf.6e5dfccfa7092d9dd94464e4cb2e2bcd.jpg</filename>
+	<path>Aldi_al_135840_MAGERE KWARK 500G12_07_14_17_41_schapkaart_jpg.rf.6e5dfccfa7092d9dd94464e4cb2e2bcd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>292</xmax>
+			<ymin>320</ymin>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+</annotation>

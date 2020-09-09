@@ -1,0 +1,40 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_331226_Milbona Gouda geraspt jong belegen 200g29_08_10_44_11_schapkaart_jpg.rf.4d3ae7ada5482f9da52a0cb50e50bac6.jpg</filename>
+	<path>Lidl_li_331226_Milbona Gouda geraspt jong belegen 200g29_08_10_44_11_schapkaart_jpg.rf.4d3ae7ada5482f9da52a0cb50e50bac6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>261</xmax>
+			<ymin>146</ymin>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>64</xmax>
+			<ymin>142</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+</annotation>

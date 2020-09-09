@@ -1,0 +1,53 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_203738_VAATWASTABLETTEN 40 STUKS15_08_21_02_25_schapkaart_jpg.rf.9eeb472ddf724cd644d43197601361ea.jpg</filename>
+	<path>Aldi_al_203738_VAATWASTABLETTEN 40 STUKS15_08_21_02_25_schapkaart_jpg.rf.9eeb472ddf724cd644d43197601361ea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>241</xmax>
+			<ymin>54</ymin>
+			<ymax>111</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>124</xmax>
+			<ymin>56</ymin>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>129</xmax>
+			<ymin>380</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

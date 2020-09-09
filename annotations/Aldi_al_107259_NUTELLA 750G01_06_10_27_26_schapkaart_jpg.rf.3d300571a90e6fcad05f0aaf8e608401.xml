@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_107259_NUTELLA 750G01_06_10_27_26_schapkaart_jpg.rf.3d300571a90e6fcad05f0aaf8e608401.jpg</filename>
+	<path>Aldi_al_107259_NUTELLA 750G01_06_10_27_26_schapkaart_jpg.rf.3d300571a90e6fcad05f0aaf8e608401.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>261</xmax>
+			<ymin>200</ymin>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+</annotation>

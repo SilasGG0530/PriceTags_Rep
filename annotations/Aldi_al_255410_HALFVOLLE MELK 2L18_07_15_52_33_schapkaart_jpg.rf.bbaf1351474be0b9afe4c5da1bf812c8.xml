@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_255410_HALFVOLLE MELK 2L18_07_15_52_33_schapkaart_jpg.rf.bbaf1351474be0b9afe4c5da1bf812c8.jpg</filename>
+	<path>Aldi_al_255410_HALFVOLLE MELK 2L18_07_15_52_33_schapkaart_jpg.rf.bbaf1351474be0b9afe4c5da1bf812c8.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>77</xmin>
+			<xmax>320</xmax>
+			<ymin>156</ymin>
+			<ymax>251</ymax>
+		</bndbox>
+	</object>
+</annotation>

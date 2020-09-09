@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_344057_Milbona Gouda plakken jong belegen wiedemelk 400g09_08_11_55_04_schapkaart_jpg.rf.1ed6690c8e9bb8a9a9225c55517c0d4e.jpg</filename>
+	<path>Lidl_li_344057_Milbona Gouda plakken jong belegen wiedemelk 400g09_08_11_55_04_schapkaart_jpg.rf.1ed6690c8e9bb8a9a9225c55517c0d4e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>114</xmin>
+			<xmax>286</xmax>
+			<ymin>18</ymin>
+			<ymax>68</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_294277_GRIEKSE YOGHURT 1L07_06_13_13_08_schapkaart_jpg.rf.d3c621640af9c76c2a3b0f37203e9bc5.jpg</filename>
+	<path>Aldi_al_294277_GRIEKSE YOGHURT 1L07_06_13_13_08_schapkaart_jpg.rf.d3c621640af9c76c2a3b0f37203e9bc5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>132</xmin>
+			<xmax>306</xmax>
+			<ymin>232</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

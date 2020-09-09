@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_344056_JONGE GOUDSE KAAS 48+ 400G01_06_11_19_39_schapkaart_jpg.rf.dab40e204bd7231f037b6f5bb3f7e71f.jpg</filename>
+	<path>Aldi_al_344056_JONGE GOUDSE KAAS 48+ 400G01_06_11_19_39_schapkaart_jpg.rf.dab40e204bd7231f037b6f5bb3f7e71f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>245</xmax>
+			<ymin>217</ymin>
+			<ymax>275</ymax>
+		</bndbox>
+	</object>
+</annotation>

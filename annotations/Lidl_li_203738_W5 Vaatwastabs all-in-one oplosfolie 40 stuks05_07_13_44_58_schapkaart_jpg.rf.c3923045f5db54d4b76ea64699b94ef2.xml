@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_203738_W5 Vaatwastabs all-in-one oplosfolie 40 stuks05_07_13_44_58_schapkaart_jpg.rf.c3923045f5db54d4b76ea64699b94ef2.jpg</filename>
+	<path>Lidl_li_203738_W5 Vaatwastabs all-in-one oplosfolie 40 stuks05_07_13_44_58_schapkaart_jpg.rf.c3923045f5db54d4b76ea64699b94ef2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>388</xmax>
+			<ymin>169</ymin>
+			<ymax>242</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Aldi_al_360791_BAKKERSSPECULAAS 450 G16_08_10_56_51_schapkaart_jpg.rf.de1876724aad11c6ddfc1a1a061d8cf3.jpg</filename>
+	<path>Aldi_al_360791_BAKKERSSPECULAAS 450 G16_08_10_56_51_schapkaart_jpg.rf.de1876724aad11c6ddfc1a1a061d8cf3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>83</xmin>
+			<xmax>358</xmax>
+			<ymin>193</ymin>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

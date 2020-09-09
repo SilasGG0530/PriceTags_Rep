@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Lidl_li_163115_Saskia bronwater 6x0_5l25_07_12_28_00_schapkaart_jpg.rf.00a1dd6f7275d8707793f41f7c4d7b9e.jpg</filename>
+	<path>Lidl_li_163115_Saskia bronwater 6x0_5l25_07_12_28_00_schapkaart_jpg.rf.00a1dd6f7275d8707793f41f7c4d7b9e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>prtg</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>157</xmin>
+			<xmax>264</xmax>
+			<ymin>77</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+</annotation>
