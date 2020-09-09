@@ -1,7 +1,7 @@
 <annotation>
 	<folder />
-	<filename>Lidl_li_138665_Blue Band Voor de keuken 250 Gram02_08_10_26_49_schapkaart_jpg.rf.bbb4cffe4928224053dba11544172c45.jpg</filename>
-	<path>Lidl_li_138665_Blue Band Voor de keuken 250 Gram02_08_10_26_49_schapkaart_jpg.rf.bbb4cffe4928224053dba11544172c45.jpg</path>
+	<filename>Lidl_li_138665_Blue Band Voor de keuken 250 Gram02_08_10_26_49_schapkaart_jpg.rf.bbb4cffe4928224053dba11544162c45.jpg</filename>
+	<path>Lidl_li_138665_Blue Band Voor de keuken 250 Gram02_08_10_26_49_schapkaart_jpg.rf.bbb4cffe4928224053dba11544162c45.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
@@ -99,7 +99,7 @@
 			<xmin>25</xmin>
 			<xmax>93</xmax>
 			<ymin>395</ymin>
-			<ymax>417</ymax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 	<object>
