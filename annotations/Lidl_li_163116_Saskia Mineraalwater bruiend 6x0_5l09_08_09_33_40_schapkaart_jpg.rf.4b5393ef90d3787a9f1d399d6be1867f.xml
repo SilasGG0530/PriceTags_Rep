@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_163116_Saskia Mineraalwater bruiend 6x0_5l09_08_09_33_40_schapkaart_jpg.rf.4b5393ef90d3787a9f1d399d6be1867f.jpg</filename>
 	<path>Lidl_li_163116_Saskia Mineraalwater bruiend 6x0_5l09_08_09_33_40_schapkaart_jpg.rf.4b5393ef90d3787a9f1d399d6be1867f.jpg</path>
 	<source>
@@ -19,7 +19,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>375</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>16</ymin>
 			<ymax>60</ymax>
 		</bndbox>

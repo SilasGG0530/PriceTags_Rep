@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_163115_Saskia bronwater 6x0_5l11_07_13_22_59_schapkaart_jpg.rf.ff98d1796f0dd34111242a40016109bf.jpg</filename>
 	<path>Lidl_li_163115_Saskia bronwater 6x0_5l11_07_13_22_59_schapkaart_jpg.rf.ff98d1796f0dd34111242a40016109bf.jpg</path>
 	<source>
@@ -84,7 +84,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>402</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>199</ymin>
 			<ymax>211</ymax>
 		</bndbox>

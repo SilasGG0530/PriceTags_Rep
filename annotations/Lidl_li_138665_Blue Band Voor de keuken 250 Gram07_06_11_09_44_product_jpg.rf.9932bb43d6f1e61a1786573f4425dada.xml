@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_138665_Blue Band Voor de keuken 250 Gram07_06_11_09_44_product_jpg.rf.9932bb43d6f1e61a1786573f4425dada.jpg</filename>
 	<path>Lidl_li_138665_Blue Band Voor de keuken 250 Gram07_06_11_09_44_product_jpg.rf.9932bb43d6f1e61a1786573f4425dada.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>1</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>132</ymin>
 			<ymax>261</ymax>
 		</bndbox>

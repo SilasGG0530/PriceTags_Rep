@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_115892_Combino Macaroni vlugkokend 500g06_06_10_45_24_schapkaart_jpg.rf.1eb27e1c58de0e6ce280565f7b6fef90.jpg</filename>
 	<path>Lidl_li_115892_Combino Macaroni vlugkokend 500g06_06_10_45_24_schapkaart_jpg.rf.1eb27e1c58de0e6ce280565f7b6fef90.jpg</path>
 	<source>
@@ -19,7 +19,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>20</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>125</ymin>
 			<ymax>213</ymax>
 		</bndbox>

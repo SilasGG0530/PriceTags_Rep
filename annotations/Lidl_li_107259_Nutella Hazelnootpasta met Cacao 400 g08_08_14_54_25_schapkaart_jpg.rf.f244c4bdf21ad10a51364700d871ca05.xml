@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_107259_Nutella Hazelnootpasta met Cacao 400 g08_08_14_54_25_schapkaart_jpg.rf.f244c4bdf21ad10a51364700d871ca05.jpg</filename>
 	<path>Lidl_li_107259_Nutella Hazelnootpasta met Cacao 400 g08_08_14_54_25_schapkaart_jpg.rf.f244c4bdf21ad10a51364700d871ca05.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>359</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>182</ymin>
 			<ymax>272</ymax>
 		</bndbox>

@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Lidl_li_119995_Freshona Appelmoes 720ml06_06_10_45_24_schapkaart_jpg.rf.eb65e611bd7cf252f45590a3898fc8a2.jpg</filename>
 	<path>Lidl_li_119995_Freshona Appelmoes 720ml06_06_10_45_24_schapkaart_jpg.rf.eb65e611bd7cf252f45590a3898fc8a2.jpg</path>
 	<source>
@@ -19,7 +19,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>34</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>75</ymin>
 			<ymax>155</ymax>
 		</bndbox>

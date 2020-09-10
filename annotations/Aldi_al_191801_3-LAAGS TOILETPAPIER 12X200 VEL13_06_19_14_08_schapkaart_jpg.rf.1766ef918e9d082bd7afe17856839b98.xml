@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_191801_3-LAAGS TOILETPAPIER 12X200 VEL13_06_19_14_08_schapkaart_jpg.rf.1766ef918e9d082bd7afe17856839b98.jpg</filename>
 	<path>Aldi_al_191801_3-LAAGS TOILETPAPIER 12X200 VEL13_06_19_14_08_schapkaart_jpg.rf.1766ef918e9d082bd7afe17856839b98.jpg</path>
 	<source>
@@ -19,7 +19,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>12</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>1</ymin>
 			<ymax>259</ymax>
 		</bndbox>

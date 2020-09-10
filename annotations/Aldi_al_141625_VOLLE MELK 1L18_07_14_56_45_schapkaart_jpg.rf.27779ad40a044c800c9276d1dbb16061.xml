@@ -1,5 +1,5 @@
 <annotation>
-	<folder></folder>
+	<folder />
 	<filename>Aldi_al_141625_VOLLE MELK 1L18_07_14_56_45_schapkaart_jpg.rf.27779ad40a044c800c9276d1dbb16061.jpg</filename>
 	<path>Aldi_al_141625_VOLLE MELK 1L18_07_14_56_45_schapkaart_jpg.rf.27779ad40a044c800c9276d1dbb16061.jpg</path>
 	<source>
@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>373</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>63</ymin>
 			<ymax>167</ymax>
 		</bndbox>

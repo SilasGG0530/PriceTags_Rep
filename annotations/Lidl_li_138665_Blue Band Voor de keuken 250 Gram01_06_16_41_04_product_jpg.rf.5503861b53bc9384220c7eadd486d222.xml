@@ -32,7 +32,7 @@
 		<occluded>0</occluded>
 		<bndbox>
 			<xmin>310</xmin>
-			<xmax>416</xmax>
+			<xmax>415</xmax>
 			<ymin>150</ymin>
 			<ymax>250</ymax>
 		</bndbox>
